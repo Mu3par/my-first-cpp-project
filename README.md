@@ -7,7 +7,7 @@ A colorful and interactive Command Line Interface (CLI) application written in C
 - **Terminal Styling:** Built with ANSI escape codes for clean and colored output.
 - **Clean Code:** Adheres to modern C++ conventions and standard code readability.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** C++
 - **Compiler:** `g++` (GCC)
 - **Environment:** Linux (Fedora)
